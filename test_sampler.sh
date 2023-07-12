@@ -1,0 +1,1 @@
+shuf -zen36 nl/* | xargs -0 mv -t nl/sample_10_test
